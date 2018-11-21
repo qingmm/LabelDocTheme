@@ -18,4 +18,4 @@ ubuntu16.04 python3.6 PyQt5
 
 界面如下图所示：
 
-[界面截图](https://github.com/qingmm/LabelDocTheme/blob/master/show.png)
+![界面截图](https://github.com/qingmm/LabelDocTheme/blob/master/show.png)
