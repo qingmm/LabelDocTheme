@@ -1,8 +1,4 @@
 #-*-coding:utf-8-*-
-# 参考资料
-# 作者：杨魅力
-# 链接：https://www.imooc.com/article/35255
-# 来源：慕课网
 # date: 2018-11-07
 import requests
 import json
